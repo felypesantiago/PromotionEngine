@@ -1,4 +1,6 @@
-package com.felype.market.model;
+package com.felype.market.model.promotion;
+
+import com.felype.market.model.ShoppingCart;
 
 public interface IPromotion {
 
